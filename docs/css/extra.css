@@ -1,0 +1,9 @@
+/* Custom CSS for mkdocs */
+
+.md-header__topic {
+    color: transparent;
+}
+
+.md-header .md-logo img {
+    width: 83px;
+}
